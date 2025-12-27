@@ -11,8 +11,4 @@ chmod +x start.sh
 
 cd cmd
 
-pip3 install -r requirements.txt
-
-cd ..
-
 ./start.sh
